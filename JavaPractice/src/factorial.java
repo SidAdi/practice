@@ -3,6 +3,7 @@ public class factorial
 {
 	public static void main(String args[])
 	{
+		System.out.println("new code changes");
 		int i;
 		int f=1;
 		int n=5;
